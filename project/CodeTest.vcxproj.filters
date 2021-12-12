@@ -15,5 +15,8 @@
     <ClInclude Include="..\include\JZ52_FindFirstCommonNode.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\include\JZ09_CQueue.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
