@@ -21,5 +21,8 @@
     <ClInclude Include="..\include\JZ30_MinStack.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\include\JZ06_reversePrint.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
