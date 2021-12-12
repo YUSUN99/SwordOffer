@@ -24,5 +24,8 @@
     <ClInclude Include="..\include\JZ06_reversePrint.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\include\JZ24_reverseList.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
