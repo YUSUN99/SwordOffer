@@ -146,6 +146,7 @@
   <ItemGroup>
     <ClInclude Include="..\common\com_datastruct.h" />
     <ClInclude Include="..\include\JZ09_CQueue.h" />
+    <ClInclude Include="..\include\JZ30_MinStack.h" />
     <ClInclude Include="..\include\JZ52_FindFirstCommonNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
