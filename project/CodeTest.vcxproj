@@ -149,6 +149,7 @@
     <ClInclude Include="..\include\JZ09_CQueue.h" />
     <ClInclude Include="..\include\JZ24_reverseList.h" />
     <ClInclude Include="..\include\JZ30_MinStack.h" />
+    <ClInclude Include="..\include\JZ35_copyRandomList.h" />
     <ClInclude Include="..\include\JZ52_FindFirstCommonNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
