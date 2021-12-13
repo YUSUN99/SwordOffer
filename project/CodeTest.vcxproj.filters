@@ -30,5 +30,8 @@
     <ClInclude Include="..\include\JZ35_copyRandomList.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\include\JZ05_replaceSpace.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -145,6 +145,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\common\com_datastruct.h" />
+    <ClInclude Include="..\include\JZ05_replaceSpace.h" />
     <ClInclude Include="..\include\JZ06_reversePrint.h" />
     <ClInclude Include="..\include\JZ09_CQueue.h" />
     <ClInclude Include="..\include\JZ24_reverseList.h" />
