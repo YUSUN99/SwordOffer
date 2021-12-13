@@ -33,5 +33,11 @@
     <ClInclude Include="..\include\JZ05_replaceSpace.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\include\JZ58_reverseLeftWords.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\source\main.cpp" />
   </ItemGroup>
 </Project>
