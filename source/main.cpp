@@ -8,6 +8,7 @@
 #include"JZ06_reversePrint.h"
 #include"JZ24_reverseList.h"
 #include"JZ35_copyRandomList.h"
+#include "JZ05_replaceSpace.h"
 
 using namespace std;
 
@@ -18,8 +19,8 @@ int main()
 	//test_JZ30_MinStack();
 	//test_JZ06_reversePrint();
 	//test_JZ24_reverseList();
-	test_JZ35_copyRandomList();
-
+	//test_JZ35_copyRandomList();
+	test_JZ05_replaceSpace();
 
 	getchar();
 	return 0;

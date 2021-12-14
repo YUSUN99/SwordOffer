@@ -73,7 +73,7 @@ Node* createRandomList(std::vector<std::vector<int>> vecdata)
 
 Node* copyRandomList(Node* head) 
 {
-	if (head == nullptr || head->next == nullptr)
+	if (head == nullptr)
 	{
 		return head;
 	}
