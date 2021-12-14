@@ -10,6 +10,9 @@
 #include"JZ35_copyRandomList.h"
 #include "JZ05_replaceSpace.h"
 #include "JZ58_reverseLeftWords.h"
+#include "JZ03_findRepeatNumber.h"
+#include "JZ53_search.h"
+
 
 using namespace std;
 
@@ -22,7 +25,10 @@ int main()
 	//test_JZ24_reverseList();
 	//test_JZ35_copyRandomList();
 	//test_JZ05_replaceSpace();
-	test_JZ58_reverseLeftWords();
+	//test_JZ58_reverseLeftWords();
+	//test_JZ03_findRepeatNumber();
+	test_JZ53_search();
+
 
 	getchar();
 	return 0;
