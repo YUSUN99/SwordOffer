@@ -4,3 +4,4 @@ project/Debug
 project/x64
 project/CodeTest.vcxproj
 .gitignore
+project

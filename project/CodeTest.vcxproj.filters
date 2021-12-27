@@ -42,6 +42,9 @@
     <ClInclude Include="..\include\JZ53_search.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\include\JZ53-2_missingNumber.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\source\main.cpp" />
