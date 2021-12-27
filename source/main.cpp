@@ -12,7 +12,7 @@
 #include "JZ58_reverseLeftWords.h"
 #include "JZ03_findRepeatNumber.h"
 #include "JZ53_search.h"
-
+#include "JZ53-2_missingNumber.h"
 
 using namespace std;
 
@@ -27,7 +27,8 @@ int main()
 	//test_JZ05_replaceSpace();
 	//test_JZ58_reverseLeftWords();
 	//test_JZ03_findRepeatNumber();
-	test_JZ53_search();
+	//test_JZ53_search();
+	test_JZ53_missingNumber();
 
 
 	getchar();
