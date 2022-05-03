@@ -9,6 +9,13 @@ struct ListNode
 	ListNode(int x) :val(x), next(NULL) {}
 };
 
+struct TreeNode
+{
+	int val;
+	TreeNode* left;
+	TreeNode* right;
+	TreeNode(int val) : val(val), left(nullptr), right(nullptr){}
+};
 
 ListNode* createList(std::vector<int> vec_data)
 {
