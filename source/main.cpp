@@ -12,6 +12,7 @@
 #include "JZ58_reverseLeftWords.h"
 #include "JZ03_findRepeatNumber.h"
 #include "JZ53_search.h"
+<<<<<<< HEAD
 
 #include "JZ28_isSymmetrical.h"
 
@@ -20,6 +21,9 @@
 
 
 #include"JZ65_Add.h"
+=======
+#include "JZ53-2_missingNumber.h"
+>>>>>>> 670e368a0e51b3d257b2a7244c36ce41875645e4
 
 using namespace std;
 
@@ -35,12 +39,16 @@ int main()
 	//test_JZ58_reverseLeftWords();
 	//test_JZ03_findRepeatNumber();
 	//test_JZ53_search();
+<<<<<<< HEAD
 
 	//test_JZ28_isSymmetrical();
 
 	//test_JZ44_findNthDigit();
 
 	test_JZ65_Add();
+=======
+	test_JZ53_missingNumber();
+>>>>>>> 670e368a0e51b3d257b2a7244c36ce41875645e4
 
 
 	getchar();

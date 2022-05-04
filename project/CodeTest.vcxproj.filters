@@ -42,6 +42,7 @@
     <ClInclude Include="..\include\JZ53_search.h">
       <Filter>include</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="..\include\JZ28_isSymmetrical.h">
       <Filter>include</Filter>
     </ClInclude>
@@ -49,6 +50,9 @@
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="..\include\JZ65_Add.h">
+=======
+    <ClInclude Include="..\include\JZ53-2_missingNumber.h">
+>>>>>>> 670e368a0e51b3d257b2a7244c36ce41875645e4
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>

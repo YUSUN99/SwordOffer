@@ -23,7 +23,7 @@
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{28f3441d-4a8e-40c0-bebc-31e306720c81}</ProjectGuid>
     <RootNamespace>CodeTest</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -155,6 +155,7 @@
     <ClInclude Include="..\include\JZ35_copyRandomList.h" />
     <ClInclude Include="..\include\JZ44_findNthDigit.h" />
     <ClInclude Include="..\include\JZ52_FindFirstCommonNode.h" />
+    <ClInclude Include="..\include\JZ53-2_missingNumber.h" />
     <ClInclude Include="..\include\JZ53_search.h" />
     <ClInclude Include="..\include\JZ58_reverseLeftWords.h" />
     <ClInclude Include="..\include\JZ65_Add.h" />
