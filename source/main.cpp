@@ -18,6 +18,9 @@
 
 #include "JZ44_findNthDigit.h"
 
+
+#include"JZ65_Add.h"
+
 using namespace std;
 
 int main()
@@ -35,7 +38,10 @@ int main()
 
 	//test_JZ28_isSymmetrical();
 
-	test_JZ44_findNthDigit();
+	//test_JZ44_findNthDigit();
+
+	test_JZ65_Add();
+
 
 	getchar();
 

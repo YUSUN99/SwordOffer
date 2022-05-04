@@ -157,6 +157,7 @@
     <ClInclude Include="..\include\JZ52_FindFirstCommonNode.h" />
     <ClInclude Include="..\include\JZ53_search.h" />
     <ClInclude Include="..\include\JZ58_reverseLeftWords.h" />
+    <ClInclude Include="..\include\JZ65_Add.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

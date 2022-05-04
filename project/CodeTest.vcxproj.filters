@@ -48,6 +48,9 @@
     <ClInclude Include="..\include\JZ44_findNthDigit.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\include\JZ65_Add.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\source\main.cpp" />
